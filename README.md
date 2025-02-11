@@ -23,6 +23,22 @@ Kullanılan Teknolojiler:
 •	Veritabanı: MySQL
 •	Güvenlik: JWT Token Authentication (HS512 ile şifreleme)
 
+Projenin Çalıştırılması :
+- Backend’i Çalıştırma
+1.	MySQL Veritabanını Ayarla, application.properties içinde veritabanı bilgilerini kendi ayarlarına göre düzenle.
+2.	Backend’i Başlat
+	API, http://localhost:8080 üzerinden çalışacaktır.
+- Frontend’i Çalıştırma
+1.	Bağımlılıkları Yükle; Terminal de; npm install 
+2.	Frontend’i Başlat; npm start
+	React uygulaması http://localhost:3000 adresinde çalışacaktır.
+
+Proje Bağlantıları :
+•	Backend Repo: [post-app-backend](https://github.com/OZNURKUTLU/post-app-backend)
+•	Frontend Repo: [post-app-frontend](https://github.com/OZNURKUTLU/post-app-frontend)
+
+Ekran Görüntüleri :
+
 ![image](https://github.com/user-attachments/assets/cc3d3a3e-0ce5-44bd-80dd-3e2f73e41080)
 ![image](https://github.com/user-attachments/assets/59cdf4af-925a-4d84-8603-29882374a2f0)
 ![image](https://github.com/user-attachments/assets/7aca5515-06a3-4f79-bb34-77952b16ec7f)
