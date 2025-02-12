@@ -18,7 +18,7 @@ Henüz geliştirilmesi gereken noktalar olsa da bu aşamada projenin GitHub'ta p
 
 Kullanılan Teknolojiler:
 
-•	Backend: Java, Spring Boot, Hibernate, Lombok, MySQL
+•	Backend: Java 17, Spring Boot, Hibernate, Lombok, MySQL
 •	Frontend: React
 •	Veritabanı: MySQL
 •	Güvenlik: JWT Token Authentication (HS512 ile şifreleme)
