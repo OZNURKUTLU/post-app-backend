@@ -4,9 +4,6 @@ Proje Özeti:
 Bu web uygulaması, kullanıcıların sosyal medya benzeri bir platformda etkileşimde bulunabilecekleri bir sistem sunmaktadır. 
 Java, Spring Boot, React, MySQL ve Hibernate kullanarak geliştirilmiştir. 
 Uygulamanın amacı, kullanıcıların kolayca kayıt olup giriş yapabilmesini sağlamak, içeriklerini paylaşmalarına ve başkalarıyla etkileşimde bulunmalarına olanak tanımaktır.
-
-Dilruba Köse'nin Full Stack Application eğitim videosunu takip ederek oluşturduğum bu projeyi, çalışır hale getirdikten sonra üzerine yeni özellikler ekleyerek geliştirdim. 
-Bu süreç, özellikle React konusunda bana büyük fayda sağladı ve Java bilgilerimi tazeledim. 
 Henüz geliştirilmesi gereken noktalar olsa da bu aşamada projenin GitHub'ta paylaşılmasının faydalı olacağına karar verdim.
 
 Özellikler:
