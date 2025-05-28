@@ -1,10 +1,9 @@
 
 Proje Özeti:
 
-Bu web uygulaması, kullanıcıların sosyal medya benzeri bir platformda etkileşimde bulunabilecekleri bir sistem sunmaktadır. 
-Java, Spring Boot, React, MySQL ve Hibernate kullanarak geliştirilmiştir. 
+Bu web uygulaması, kullanıcılara sosyal medya benzeri bir platformda etkileşimde bulunabilecekleri bir sistem sunar. 
+Java, Spring Boot, React, MySQL ve Hibernate kullandım. 
 Uygulamanın amacı, kullanıcıların kolayca kayıt olup giriş yapabilmesini sağlamak, içeriklerini paylaşmalarına ve başkalarıyla etkileşimde bulunmalarına olanak tanımaktır.
-Henüz geliştirilmesi gereken noktalar olsa da bu aşamada projenin GitHub'ta paylaşılmasının faydalı olacağına karar verdim.
 
 Özellikler:
 
